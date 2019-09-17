@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: f23b834ced0f644ae8a143fc3f290649
+timeCreated: 1535567751
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Encode Sans Condensed
+  fontNames:
+  - Encode Sans Condensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c48539f2610884a4ba14ac20d2a47df9, type: 3}
+  - {fileID: 12800000, guid: 998e51637b1a94875b28654d12d3715b, type: 3}
+  - {fileID: 12800000, guid: 05ccbba3c62074c7f87919595190ec52, type: 3}
+  - {fileID: 12800000, guid: 3f6a4ed37def943fe86cb17a5200be20, type: 3}
+  - {fileID: 12800000, guid: 6fc067f30d39b4ea989bd1e0fc971276, type: 3}
+  - {fileID: 12800000, guid: 331ac428e62f64de1afa986ca6ac3a62, type: 3}
+  - {fileID: 12800000, guid: 5752cba8f02864f048b9a27929752e69, type: 3}
+  - {fileID: 12800000, guid: 9cd480b9e51b345c693399e3642c38dd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

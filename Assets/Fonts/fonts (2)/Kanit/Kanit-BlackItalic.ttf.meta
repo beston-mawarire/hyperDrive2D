@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 7528fe7c274554bf9ba42723fd6f33f9
+timeCreated: 1535567749
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kanit
+  fontNames:
+  - Kanit
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 006299e1702174be0925bc809eee047c, type: 3}
+  - {fileID: 12800000, guid: 1a7c8ef79fd89466ab150dc7c337b06d, type: 3}
+  - {fileID: 12800000, guid: 3ebf095a3776a4162a6f4a91aef10a76, type: 3}
+  - {fileID: 12800000, guid: 3922ab3b1290e4b358fa4f0ea4cae381, type: 3}
+  - {fileID: 12800000, guid: 7437805bd0c2943618f8ed274edd8a65, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

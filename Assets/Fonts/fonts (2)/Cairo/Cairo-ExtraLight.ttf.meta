@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 645cab1da309e4718b6ab263b7a23b4e
+timeCreated: 1535567749
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cairo ExtraLight
+  fontNames:
+  - Cairo ExtraLight
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

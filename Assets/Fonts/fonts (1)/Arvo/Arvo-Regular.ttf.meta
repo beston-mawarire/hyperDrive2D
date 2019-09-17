@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 91149405d247b4229a2aa52109df1502
+timeCreated: 1535567744
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Arvo
+  fontNames:
+  - Arvo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0350df82bfe444d6da6e4a5aed1a201a, type: 3}
+  - {fileID: 12800000, guid: 4c835ad6d475d41f1a4e1eb44f96252e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

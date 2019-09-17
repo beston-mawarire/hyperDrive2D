@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fffcf2810c87e4917bb0caf7b15d9bb5
+timeCreated: 1535567751
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cairo Black
+  fontNames:
+  - Cairo Black
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
